@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Alina 👋
 
-<!--
-**alina-kolomenska/alina-kolomenska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full-stack engineer with a strong frontend focus and 5+ years building SaaS products and brand websites in healthcare, legaltech, and e-commerce.
+ 
+🛠️ React · Next.js · TypeScript · Node.js · NestJS · PostgreSQL · Prisma · MongoDB · Tailwind CSS
+ 
+🤖 Voice and avatar agents, real-time speech translation, and LLM-based translation in production apps
+ 
+📍 Based in Kyiv, Ukraine
+ 
+🌍 Experienced with international, distributed teams
+ 
+🟢 **Open to work:** frontend and full-stack roles, fully remote
+ 
+[Portfolio](https://alina-kolomenska.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/alina-kolomenska/) · [Email](mailto:alina.kolomenska@gmail.com)
