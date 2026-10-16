@@ -12,4 +12,4 @@ Full-stack engineer with a strong frontend focus and 5+ years building productio
  
 🟢 **Open to work:** frontend and full-stack roles, fully remote
  
-[LinkedIn](https://www.linkedin.com/in/alina-kolomenska/) · [Email](mailto:alina.kolomenska@gmail.com)
+[Portfolio](https://alina-kolomenska.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/alina-kolomenska/) · [Email](mailto:alina.kolomenska@gmail.com)
