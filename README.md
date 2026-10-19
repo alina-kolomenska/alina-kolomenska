@@ -1,6 +1,6 @@
 ## Hi, I'm Alina 👋
 
-Full-stack engineer with a strong frontend focus and 5+ years building production SaaS products and brand websites in healthcare, legaltech, and e-commerce.
+Full-stack engineer with a strong frontend focus and 5+ years building production SaaS products and brand websites for healthcare, legaltech, and consumer goods clients. 
  
 🛠️ React · Next.js · TypeScript · Node.js · NestJS · PostgreSQL · Prisma · MongoDB · Tailwind CSS
  
