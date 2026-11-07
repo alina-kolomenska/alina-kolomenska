@@ -6,8 +6,8 @@ Full-stack engineer with a strong frontend focus and 5+ years building productio
  
 🤖 Voice and avatar agents, real-time speech translation, and LLM-based translation in production apps
  
-📍 Based in Kyiv, Ukraine
- 
+📍 Based in Kyiv, Ukraine 🇺🇦 · regularly in Turin, Italy 🇮🇹
+
 🌍 Experienced with international, distributed teams
  
 🟢 **Open to work:** frontend and full-stack roles, fully remote
